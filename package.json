@@ -1,0 +1,12 @@
+{
+  "name": "friend_finder-master",
+  "version": "1.0.0",
+  "description": "hw",
+  "main": "logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Javier Leon",
+  "license": "ISC"
+}
